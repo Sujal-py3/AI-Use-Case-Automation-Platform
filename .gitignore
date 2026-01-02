@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Local RAG Data
+chroma_db/
+temp_uploads/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
