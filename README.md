@@ -1,10 +1,10 @@
-# 🤖 RAG Use Case Generator  
+# 🤖 AI Use Case Automation Platform
 
 ---
 
 ## 📌  Overview  
 
-RAG Use Case Generator is an AI-powered product that converts unstructured product documentation (PDFs, Word files, images, and text) into structured, reliable software use cases.
+AI Use Case Automation Platformis an AI-powered product that converts unstructured product documentation (PDFs, Word files, images, and text) into structured, reliable software use cases.
 
 Instead of manually reading through long documents and extracting requirements, users can upload their files and instantly generate accurate flows, validations, and test scenarios grounded strictly in real content.
 
